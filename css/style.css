@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h1{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h2{
+    font-size: 22px;
+}
+.form-bg{
+
+    background-color: #fff;
+    max-width: 500rem;
+    padding: 1rem;
+    margin: auto;
+    border-radius: 1rem;
+    box-shadow: 3px 4px rgba(0, 0, 0, 0.3);
+    text-align: center;
+
+}
