@@ -1,0 +1,2 @@
+connection to database is in includes/db.inc
+you need to pass through curlPost in includes to post 
